@@ -35,7 +35,7 @@ viewDog.addEventListener("click", function () {
  const random_dog_pics = `https://dog.ceo/api/breed/${breedName}/images/random`
 
  $.ajax({
-   typr: "GET",
+   type: "GET",
    url: random_dog_pics,
    async: true,
    dataType: "json",
@@ -62,6 +62,7 @@ viewDog.addEventListener("click", function () {
     HTTP sessions is an industry standard feature that allows Web servers to maintain user identity and to store user-specific data during multiple request/response interactions between a client application and a Web application.
 
     Number 10
+    
 
 
 */

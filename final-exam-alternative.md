@@ -10,7 +10,8 @@ Create a github repository with the name WEB2010 and push your two files there. 
 
 ##Questions
 
-1. Imagine you are writing a "to do" list application. Create a class named task which has the following features: owner of the task, task description, a variable which represents whether the task is completed or not, and created date (set at runtime based on when the Task object is created). Make sure your constructor is such that it can receive two values only (and use default parameters for the other two). **Use ES6 class Syntax**
+1. Imagine you are writing a "to do" list application. Create a class named task which has the following features: <!--owner of the task, task description, a variable which represents whether the task is completed or not, and created date (set at runtime based on when the Task object is created). Make sure your constructor is such that it can receive two values only (and use default parameters for the other two). -->
+ **Use ES6 class Syntax**
 2. Add a method to your Task class which toggles the state of the "completed" variable. If the Task is already completed, this method should set the value of "completed" to false, and vice versa. **Use ES6 class Syntax, include only the finished version of the Task class in your submission**
 
 3. Imagine you are writing a Gradebook program. Create a class named Student which encapsulates the following data: student first name, student last name student ID. You may use pseudoclassical or ES6 syntax.
